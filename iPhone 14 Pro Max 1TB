@@ -126,10 +126,10 @@ img {
         <p class="price">
             <strong>Price:</strong>
             <del>
-                <span class="f-product-price">₱109,990.00</span>
+                <span class="f-product-price">₱109,990</span>
             </del>
             <ins>
-                <span class="f-cur-price"><br>Now ₱100,000.00</span>
+                <span class="f-cur-price"><br>Now ₱100,000</span>
             </ins>
             <span class="f-product-unit"></span>
         </p>
